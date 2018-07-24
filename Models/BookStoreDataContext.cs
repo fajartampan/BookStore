@@ -11,7 +11,7 @@ namespace EFCoreBookStore.Models{
         {
             optionsBuilder.UseMySQL(ConnectionString);
         }
-
+        //ededed
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Category>().ToTable("categories");
