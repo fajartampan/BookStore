@@ -1,0 +1,2 @@
+# BookStore
+.net core trainning
